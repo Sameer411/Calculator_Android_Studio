@@ -9,8 +9,11 @@ Steps to execute application: -
   6) Open second xml file at location ' Calculator/app/src/main/res/layout/activity_main.xml'. 
   7) Run the java file. 
   8) Mobile view and xml file show the application view you can perform the arithmetic operations. 
-  9) After performing close the file and close android studio. 
-  10) End of execution. 
+  9) Second Way to access this application is you can connect your smartphone with pc / laptop and then below location and compy APK file in phone and install it
+  10) Location: - Calculator/app/build/outputs/apk/debug/app-debug.apk
+  11) app-debug.apk is your apk file for installation 
+  12) After performing close the file and close android studio. 
+  13) End of execution. 
 
 XML file is to create the GUI of the Application ehreas, java file is to code the Application. 
 XML is hving all the buttons and TextViews. 
