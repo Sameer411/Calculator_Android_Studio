@@ -18,3 +18,6 @@ Steps to execute application: -
 XML file is to create the GUI of the Application ehreas, java file is to code the Application. 
 XML is hving all the buttons and TextViews. 
 In java file all the buttons and text views from xml file is linked and used to execute Application.
+
+# Application View 
+![](Images/1.png)
